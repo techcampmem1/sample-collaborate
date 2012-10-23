@@ -45,7 +45,7 @@ not supported. Below are some examples of code that produces setext-style headin
     ==========
 
     Heading 2
-   `-`
+    -
 
 (You don't have to underline the whole heading, but it makes your code more readable).
 
@@ -81,7 +81,7 @@ Unordered lists are displayed as bulleted lists. Markdown uses `*`, `-`, or
 
     * Apples
     * Bananas
-`* Oranges`
+    * Oranges
 
 Produces:
 
@@ -101,7 +101,7 @@ and
 
     4. Apples
     5. Oranges
- `8. Bananas`
+    8. Bananas
 
 Both Produce:
 
