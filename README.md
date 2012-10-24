@@ -1,3 +1,6 @@
+**Author:**
+Your Name Goes Here
+
 # Markdown Syntax
 
 Markdown is a markup language that uses simple syntax and can be compiled into html. Let's
@@ -34,7 +37,7 @@ text easier to read. Below are some code examples of Atx-style headings.
 
     #Heading 1
     ## Heading 2 ##
-`### Heading 3`
+    ### Heading 3
   
 The second method is by 'underlining' the text of the header with `-` 
 (minus sign) or `=` (equal sign) characters. These are called setext style headers. The `=` translates to 
