@@ -1,6 +1,5 @@
 **Author:**
-Your Name Goes Here
-
+STEM Kids 101
 # Markdown Syntax
 
 Markdown is a markup language that uses simple syntax and can be compiled into html. Let's
